@@ -13,7 +13,7 @@ from PIL import Image
 
 #API Connection String
 def api_connection():
-        Api_Id="AIzaSyC954eUepgdgh41ZcGhoNVrRVZZQJr_LB0"
+        Api_Id="use_your_api_key"
         api_service="youtube"
         api_version="v3"
 
